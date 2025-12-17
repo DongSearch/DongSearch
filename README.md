@@ -1,30 +1,45 @@
-## Hi there 👋
-
-<!--
-**DongSearch/DongSearch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 👋 Hi, I'm Gidong Baek
-
-🎓 M.Sc. student in Communication & Multimedia Engineering (Germany)  
-🔊 Interested in Audio Systems, Embedded Systems, and Communication
+# Gidong Baek
+🎓 M.Sc. Communication & Multimedia Engineering (Germany)  
+🔊 Audio Systems | Embedded | ROS2
 
 ---
 
-## 🛠 Tech Stack
-- Languages: Python, C/C++, MATLAB
-- Tools: Linux, ROS2, Git, Docker
-- Interests: Audio Signal Processing, Conversational Agents
+## 👤 Profile
+Master’s student with experience in E-Mobility software systems in Korea.
+Interested in audio hardware evaluation, full-duplex systems, and conversational agents.
+Seeking a long-term working student or thesis position.
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, C/C++, MATLAB
+- **Systems:** Linux, Git, ROS2, Docker
+- **Domains:** Audio Signal Processing, Embedded Systems
+
+---
+
+## 💼 Experience
+**E-Mobility Association (Korea)** – Software & Systems  
+- System-level software integration for electric mobility
+- Collaboration with multiple IT companies
 
 ---
 
 ## 📌 Projects
-- 🔈 Full-duplex audio system evaluation
-- 🤖 ROS2-based audio perception node
+### 🔊 Full-Duplex Audio System
+- Latency & echo evaluation on Linux-based systems
+
+### 🤖 ROS2 Audio Node
+- Real-time audio streaming and processing
+
+---
+
+## 🎓 Education
+M.Sc. Communication & Multimedia Engineering  
+FAU Erlangen-Nürnberg, Germany
 
 ---
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourname
-
+- Email: xxx
+- LinkedIn: xxx
