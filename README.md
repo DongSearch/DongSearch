@@ -1,7 +1,11 @@
 # Gidong Baek
 ---
 ## 🛠 Skills
-- **Programming:** <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=white"/>, C/C++, MATLAB,Java
+- **Programming:**  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 - **Systems:** Linux, Git, ROS2, Docker
 - **Domains:** Audio Signal Processing, Embedded Systems, Robot, AI engineering
 ---
