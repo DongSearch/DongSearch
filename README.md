@@ -25,8 +25,8 @@ M.Sc. Communication & Multimedia Engineering
 FAU Erlangen-Nürnberg, Germany
 
 ### Bachelor Degree
-Electronics engineering
-Pukyong National University
+M.Sc. Communication & Multimedia Engineering  
+FAU Erlangen-Nürnberg, Germany
 ---
 ## 🌐 Language
 - English : Proficient
