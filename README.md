@@ -27,6 +27,7 @@ FAU Erlangen-Nürnberg, Germany
 ### Bachelor Degree
 M.Sc. Communication & Multimedia Engineering  
 FAU Erlangen-Nürnberg, Germany
+
 ---
 ## 🌐 Language
 - English : Proficient
