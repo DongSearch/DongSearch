@@ -1,6 +1,4 @@
 # Gidong Baek
-🎓 M.Sc. Communication & Multimedia Engineering (Germany)  
-🔊 Audio Systems | Embedded | ROS2 | AI engineer 
 ---
 ## 🛠 Skills
 - **Programming:** Python, C/C++, MATLAB,Java
@@ -35,7 +33,5 @@ Pukyong National University, Korea
 - German  : Independent
 - 
 ---
-## 📫 Contact
-- Email: gd.baek1495@gmail.com   
-- LinkedIn: www.linkedin.com/in/gidong-baek-6b23982b3
+
 
