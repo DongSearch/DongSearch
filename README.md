@@ -38,7 +38,6 @@ Pukyong National University, Korea
 - Korean  : Native
 - French  : Independent
 - German  : Independent
-- 
 ---
 
 
