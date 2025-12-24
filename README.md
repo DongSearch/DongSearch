@@ -5,7 +5,7 @@
 ## 🛠 Skills
 - **Programming:** Python, C/C++, MATLAB,Java
 - **Systems:** Linux, Git, ROS2, Docker
-- **Domains:** Audio Signal Processing, Embedded Systems
+- **Domains:** Audio Signal Processing, Embedded Systems, Robot, AI engineering
 ---
 
 ## 💼 Experience
@@ -18,14 +18,7 @@
 ** FAU ICT & Mercedes-Benz** (2025/07~)
 - Planning Defense using flow-matching and Signed Distance Function on Safebench & Calra Platform
 ## 📌 Projects
-### 🔊 Full-Duplex Audio System
-- Latency & echo evaluation on Linux-based systems
-
-### 🤖 ROS2 Audio Node
-- Real-time audio streaming and processing
-
 ---
-
 ## 🎓 Education
 ### Master Degree
 M.Sc. Communication & Multimedia Engineering  
