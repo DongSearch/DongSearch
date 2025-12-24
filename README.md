@@ -20,7 +20,7 @@
 ---
 ## 🏢 Internship
 **FAU ICT & Mercedes-Benz** (2025/07~)
-- Planning Defense using flow-matching and Signed Distance Function on Safebench & Calra Platform
+- Planning Defense using flow-matching and Signed Distance Function on Safebench & Carla Platform
 ## 📌 Projects
 ---
 ## 🎓 Education
