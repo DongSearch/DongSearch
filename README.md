@@ -23,6 +23,7 @@
 - Planning Defense using flow-matching and Signed Distance Function on Safebench & Carla Platform
 ## 📌 Projects
 **Master Thesis** (2025/11~)
+- REG with SiT Block seperation depending on frequncies
 ---
 ## 🎓 Education
 ### Master Degree
