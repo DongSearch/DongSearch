@@ -22,6 +22,7 @@
 **FAU ICT & Mercedes-Benz** (2025/07~)
 - Planning Defense using flow-matching and Signed Distance Function on Safebench & Carla Platform
 ## 📌 Projects
+**Master Thesis** (2025/11~)
 ---
 ## 🎓 Education
 ### Master Degree
