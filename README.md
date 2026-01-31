@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-## 💼 Experience
+## 💼Work Experience
 **E-Mobility Association (Korea)** – Software & Systems(2021/02~2023/09)
 - System-level software integration for electric mobility
 - Collaboration with multiple IT companies
@@ -22,11 +22,19 @@
 ## 🏢 Internship
 **FAU ICT & Mercedes-Benz** (2025/07~)
 - Planning Defense using flow-matching and Signed Distance Function on Safebench & Carla Platform
+
+---  
 ## 📌 Projects
+**Kaggle MiniProject** (2026/1) - Dusan Robotics
+- 2nd(89.4%) Reach to best performance with small and balance dataset without pre-trained model  
+
 **Master Thesis** (2025/11~)
 - REG with SiT Block seperation depending on frequncies
-**Kaggle MiniProject** (2026/1) - Dusan Robotics
-- 2nd(89.4%) Reach to best performance with small and balance dataset without pre-trained model
+
+**Electric CycleCart Development** (2023-2024) - E-mobility Association
+- Took charge of developing software and embedded systems for the VCU and controlling electric components using an NXP DVK board
+- Developed and tested CAN FD communication  
+- Supported business proposal preparation  
 
 ---
 ## 🎓 Education  
