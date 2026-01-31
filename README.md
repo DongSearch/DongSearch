@@ -24,6 +24,9 @@
 ## 📌 Projects
 **Master Thesis** (2025/11~)
 - REG with SiT Block seperation depending on frequncies
+**Kaggle MiniProject** (2026/1) - Dusan Robotics
+- 2nd(89.4%) Reach to best performance with small and balance dataset without pre-trained model
+
 ---
 ## 🎓 Education
 ### Master Degree
@@ -33,6 +36,10 @@ FAU Erlangen-Nürnberg, Germany
 ### Bachelor Degree
 Electronics Engineering
 Pukyong National University, Korea
+
+### Rokey Bootcamp
+ROS + AI(Computer Vision) + Project + Robot
+Dusan Robotics, Korea
 
 ---
 ## 🌐 Language
