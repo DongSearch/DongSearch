@@ -34,11 +34,11 @@ M.Sc. Communication & Multimedia Engineering
 FAU Erlangen-Nürnberg, Germany
 
 ### Bachelor Degree
-Electronics Engineering
+Electronics Engineering  
 Pukyong National University, Korea
 
 ### Rokey Bootcamp
-ROS + AI(Computer Vision) + Project + Robot
+ROS + AI(Computer Vision) + Project + Robot  
 Dusan Robotics, Korea
 
 ---
