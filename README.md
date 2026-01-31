@@ -35,12 +35,10 @@ FAU Erlangen-Nürnberg, Germany
 
 ### Bachelor Degree
 Electronics Engineering
-
 Pukyong National University, Korea
 
 ### Rokey Bootcamp
 ROS + AI(Computer Vision) + Project + Robot
-
 Dusan Robotics, Korea
 
 ---
