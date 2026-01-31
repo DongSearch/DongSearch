@@ -38,7 +38,7 @@
 
 ---
 ## 🎓 Education  
-### Rokey Bootcamp(2025/12~2026/06
+### Rokey Bootcamp(2025/12~2026/06)
 ROS + AI(Computer Vision) + Project + Robot  
 Dusan Robotics, Korea
 
