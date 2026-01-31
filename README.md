@@ -31,22 +31,22 @@
 **Master Thesis** (2025/11~)
 - REG with SiT Block seperation depending on frequncies
 
-**Electric CycleCart Development** (2022-2024) - E-mobility Association
+**Electric CycleCart Development** (2021-2023) - E-mobility Association
 - Took charge of developing software and embedded systems for the VCU and controlling electric components using an NXP DVK board
 - Developed and tested CAN FD communication  
 - Supported business proposal preparation  
 
 ---
 ## 🎓 Education  
-### Rokey Bootcamp
+### Rokey Bootcamp(2025/12~2026/06
 ROS + AI(Computer Vision) + Project + Robot  
 Dusan Robotics, Korea
 
-### Master Degree
+### Master Degree(2023/10~2026)
 M.Sc. Communication & Multimedia Engineering  
 FAU Erlangen-Nürnberg, Germany
 
-### Bachelor Degree
+### Bachelor Degree(2015~2021)
 Electronics Engineering  
 Pukyong National University, Korea
 
