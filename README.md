@@ -17,6 +17,7 @@
 - System-level software integration for electric mobility
 - Collaboration with multiple IT companies
 - CAN communication(C/C#)
+
 ---
 ## 🏢 Internship
 **FAU ICT & Mercedes-Benz** (2025/07~)
@@ -28,7 +29,11 @@
 - 2nd(89.4%) Reach to best performance with small and balance dataset without pre-trained model
 
 ---
-## 🎓 Education
+## 🎓 Education  
+### Rokey Bootcamp
+ROS + AI(Computer Vision) + Project + Robot  
+Dusan Robotics, Korea
+
 ### Master Degree
 M.Sc. Communication & Multimedia Engineering  
 FAU Erlangen-Nürnberg, Germany
@@ -37,16 +42,13 @@ FAU Erlangen-Nürnberg, Germany
 Electronics Engineering  
 Pukyong National University, Korea
 
-### Rokey Bootcamp
-ROS + AI(Computer Vision) + Project + Robot  
-Dusan Robotics, Korea
-
 ---
 ## 🌐 Language
 - English : Proficient
 - Korean  : Native
 - French  : Independent
 - German  : Independent
+
 ---
 
 
