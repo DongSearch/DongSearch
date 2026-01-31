@@ -31,7 +31,7 @@
 **Master Thesis** (2025/11~)
 - REG with SiT Block seperation depending on frequncies
 
-**Electric CycleCart Development** (2023-2024) - E-mobility Association
+**Electric CycleCart Development** (2022-2024) - E-mobility Association
 - Took charge of developing software and embedded systems for the VCU and controlling electric components using an NXP DVK board
 - Developed and tested CAN FD communication  
 - Supported business proposal preparation  
