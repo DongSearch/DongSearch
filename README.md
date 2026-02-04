@@ -16,7 +16,7 @@
 **E-Mobility Association (Korea)** – Software & Systems(2021/02~2023/09)
 - System-level software integration for electric mobility
 - Collaboration with multiple IT companies
-- CAN communication(C/C#)
+- CAN communication(C/C++)
 
 ---
 ## 🏢 Internship
