@@ -11,6 +11,12 @@
 ![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+- **AI:** 
+![Sicitlearn](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ---
 ## 💼Work Experience
 **E-Mobility Association (Korea)** – Software & Systems(2021/02~2023/09)
@@ -39,7 +45,7 @@
 ---
 ## 🎓 Education  
 ### Rokey Bootcamp(2025/12~2026/06)
-ROS + AI(Computer Vision) + Project + Robot  
+ROS2 + AI(Computer Vision) + Project + Robot  
 Dusan Robotics, Korea
 
 ### Master Degree(2023/10~2026)
