@@ -10,6 +10,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-Autonomous%20Driving-00599C?style=flat)
 
 - **AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
