@@ -54,7 +54,7 @@ M.Sc. Communication & Multimedia Engineering
 FAU Erlangen-Nürnberg, Germany
 
 ### Bachelor Degree(2015~2021)
-Electronics Engineering & Business Management(double major)
+Electronics Engineering & Business Management(double major)  
 Pukyong National University, Korea
 
 ---
