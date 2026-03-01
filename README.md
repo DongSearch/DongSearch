@@ -1,22 +1,29 @@
 # Gidong Baek
 ---
 ## 🛠 Skills
-- **Programming:**  ![Python](https://img.shields.io/badge/Python-3DDC84?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- **System:** 
+- **Programming:** 
+![Python](https://img.shields.io/badge/Python-Expert-3DDC84?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=flat&logo=matlab&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=java&logoColor=white)
+- **System:**
+![CARLA](https://img.shields.io/badge/CARLA20Driving-00599C?style=flat)
+![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CARLA](https://img.shields.io/badge/CARLA20Driving-00599C?style=flat)
+
 
 - **AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+- **Signal & Communication:**
+![Digital Signal Processing](https://img.shields.io/badge/DSP-Digital%20Filtering-blue)
+![Speech Processing](https://img.shields.io/badge/Speech-Analysis-green)
+![Wireless Communication](https://img.shields.io/badge/Communication-Systems-orange)
 
 ---
 ## 💼Work Experience
