@@ -9,7 +9,7 @@
 
 - **AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat)
-![YOLO](https://img.shields.io/badge/Compultervision-7C3AED?style=flat)
+![YOLO](https://img.shields.io/badge/Computervision-7C3AED?style=flat)
 ![LLM](https://img.shields.io/badge/LMM-7C3AED?style=flat)
 
 
