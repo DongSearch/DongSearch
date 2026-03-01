@@ -22,9 +22,9 @@
 
 
 - **Signal & Communication:**
-![DSP](https://img.shields.io/badge/DSP-DigitalSignal-EA580C?style=flat)
-![Speech](https://img.shields.io/badge/Speech-Processing-EA580C?style=flat)
-![Communication](https://img.shields.io/badge/Wireless-Systems-EA580C?style=flat)
+![DSP](https://img.shields.io/badge/DSP-EA580C?style=flat)
+![Speech](https://img.shields.io/badge/Speech Processing-EA580C?style=flat)
+![Communication](https://img.shields.io/badge/Wireless Systems-EA580C?style=flat)
 
 ---
 ## 💼Work Experience
