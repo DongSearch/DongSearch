@@ -7,7 +7,7 @@
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=java&logoColor=white)
 - **System:**
-![CARLA](https://img.shields.io/badge/CARLA20Driving-00599C?style=flat)
+![CARLA](https://img.shields.io/badge/CARLADriving-00599C?style=flat)
 ![ROS2](https://img.shields.io/badge/ROS2-3390FF?style=flat&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
