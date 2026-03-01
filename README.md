@@ -6,19 +6,21 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-2E8B57?style=flat)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-2E8B57?style=flat)
 ![Java](https://img.shields.io/badge/Java-Intermediate-2E8B57?style=flat)
-- **System:**
-![ROS2](https://img.shields.io/badge/ROS2-2563EB?style=flat)
-![CARLA](https://img.shields.io/badge/CARLA-2563EB?style=flat)
-![Linux](https://img.shields.io/badge/Linux-Environment-2563EB?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat)
-![Git](https://img.shields.io/badge/Git-2563EB?style=flat)
-
 
 - **AI:** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat)
 ![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-7C3AED?style=flat)
 ![LLM](https://img.shields.io/badge/LMM-7C3AED?style=flat)
+
+
+- **System:**
+![ROS2](https://img.shields.io/badge/ROS2-2563EB?style=flat)
+![CARLA](https://img.shields.io/badge/CARLA-2563EB?style=flat)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat)
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat)
+
 
 - **Signal & Communication:**
 ![DSP](https://img.shields.io/badge/DSP-DigitalSignal-EA580C?style=flat)
