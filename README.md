@@ -26,6 +26,9 @@
 ![Speech](https://img.shields.io/badge/SpeechProcessing-EA580C?style=flat)
 ![Communication](https://img.shields.io/badge/WirelessSystems-EA580C?style=flat)
 
+- **Web & App:** ![FastAPI](https://img.shields.io/badge/FastAPI-FFFF00?style=flat)
+![Android](https://img.shields.io/badge/Andorid-FFFF00?style=flat)
+
 ---
 ## 💼Work Experience
 **E-Mobility Association (Korea)** – Software & Systems(2021/02~2023/09)
