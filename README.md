@@ -28,7 +28,7 @@
 
 - **Web & App:** ![FastAPI](https://img.shields.io/badge/FastAPI-FFFF00?style=flat)
 ![Android](https://img.shields.io/badge/Andorid-FFFF00?style=flat)
-
+![SQL](https://img.shields.io/badge/SQLAlchemy|SQLlite|PostgreSQL-FFFF00?style=flat)
 ---
 ## 💼Work Experience
 **E-Mobility Association (Korea)** – Software & Systems(2021/02~2023/09)
