@@ -2,7 +2,7 @@
 ---
 ## 🛠 Skills
 - **Programming:** 
-![Python](https://img.shields.io/badge/Python-Expert-2E8B57?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-2E8B57?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-2E8B57?style=flat)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-2E8B57?style=flat)
 ![Java](https://img.shields.io/badge/Java-Intermediate-2E8B57?style=flat)
